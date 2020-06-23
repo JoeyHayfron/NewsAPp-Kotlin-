@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewsApp(Kotlin)</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="headline_text">Headline</string>
+    <string name="source_text">Source</string>
+    <string name="API_KEY">30c322fab66549fb981c9fd76843aa4e</string>
+    <string name="article_headline">Article Heading American Soldier</string>
+    <string name="article_author">American Soldier</string>
+    <string name="article_source">American Soldier</string>
+    <string name="article_date">American Soldier</string>
+    <string name="article_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas aliquam tellus eu urna facilisis scelerisque. Phasellus ut pretium ante. Praesent leo nunc, volutpat ac bibendum at, ultricies at ante. Proin malesuada, purus quis ullamcorper scelerisque, orci mi mattis mi, rhoncus bibendum sapien augue vitae nibh. Nullam vel placerat justo. Aenean at accumsan neque, at tristique risus. Maecenas nibh justo, congue ac felis ac, sagittis consequat neque. Quisque nulla nisl, consectetur non maximus vel, consequat in urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis quis tortor egestas, mattis justo non, lacinia erat. Integer vehicula, augue eu mollis commodo, nulla tellus tempus sem, a blandit justo purus vitae metus. Sed imperdiet nisi id odio posuere, nec sagittis ante hendrerit. Suspendisse mattis elementum lacus quis commodo. Nulla vitae urna arcu. Vivamus maximus, erat a interdum imperdiet, dui augue tempus sapien, ac euismod est magna vel lorem. Aliquam ultrices aliquet auctor. Quisque eu maximus ex, id vulputate diam. Phasellus et felis at leo accumsan tristique. Integer pretium luctus felis vitae malesuada. Aliquam sed sapien accumsan, finibus magna sed, lacinia neque. Donec mattis, nisi vitae tincidunt fringilla, libero diam bibendum metus, eget ultrices odio odio et nibh. Suspendisse potenti. Morbi tincidunt neque magna. Sed leo purus, condimentum vitae risus non, posuere interdum urna. Ut quis tempus tellus, nec faucibus nulla. Sed nec elit est. Mauris ac imperdiet magna. Sed sit amet ex a dui molestie consequat. Nam metus metus, eleifend non metus a, finibus finibus dui. Suspendisse varius ut augue vitae dapibus. Suspendisse diam mi, auctor bibendum volutpat et, lacinia eu eros. Nunc consectetur, diam eget fermentum tempus, dui justo convallis erat, eget egestas felis enim non eros. Maecenas scelerisque porta massa eget luctus. Curabitur aliquet, tortor nec fringilla rhoncus, elit dolor aliquam nulla, quis dignissim lacus ipsum nec nisi. Vestibulum suscipit sit amet eros vel semper. Morbi ac luctus nisi. Integer scelerisque felis eget condimentum accumsan. Phasellus tincidunt nulla ex, nec cursus eros varius aliquam. Vivamus non nisi ut purus eleifend scelerisque. Etiam non consectetur nulla, a consequat odio. Proin sem justo, iaculis quis vehicula eget, volutpat ac orci. Quisque nec justo vel tortor volutpat porttitor. Praesent dapibus mi in scelerisque lobortis. Suspendisse in auctor nulla, ut pretium nisl. Vestibulum vitae est gravida, gravida velit at, semper metus. Praesent ornare, lacus eget bibendum accumsan, dolor sapien vestibulum magna, in sodales tortor elit non ipsum. In venenatis bibendum ornare. Suspendisse consectetur tellus nunc, ut feugiat est dignissim nec. Etiam ac velit purus. Praesent molestie metus dolor, ut pulvinar metus tristique non. Phasellus lobortis maximus dolor. Pellentesque pretium, felis ac egestas ullamcorper, sapien urna lacinia ex, a pulvinar orci tellus gravida nibh. Etiam id feugiat neque. Praesent molestie est tortor, tristique dignissim leo convallis vel. Nulla pharetra neque vitae dolor dapibus placerat. Nullam eget mauris feugiat nisi rutrum ultrices in ut ante. Aliquam eros purus, iaculis at ex in, suscipit convallis augue. Sed tincidunt viverra ultrices. Proin vulputate dictum leo, quis consectetur metus elementum ut. Etiam pharetra leo non elementum consectetur. In posuere odio nec lorem efficitur laoreet. Vivamus tempor lacus eu metus condimentum tempus.</string>
+    <string name="categories">Categories</string>
+    <string name="title_activity_cat">CatActivity</string>
+    <string name="read_more"><![CDATA[Read more ->]]></string>
+</resources>
